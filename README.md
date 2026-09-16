@@ -48,7 +48,7 @@ Las herramientas y técnicas de seguridad deben utilizarse únicamente en sistem
 
 ### Logo
 
-![eDEX-UI Logo](screenshots/logo.png)
+
 
 ![Terminal eDEX-UI](screenshot.png)
 
