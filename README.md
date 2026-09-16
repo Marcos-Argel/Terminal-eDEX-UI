@@ -42,7 +42,13 @@ Las herramientas y técnicas de seguridad deben utilizarse únicamente en sistem
 
 ## 🖼️ Capturas
 
-Agrega aquí capturas de pantalla de la terminal:
+### Terminal
+
+![Terminal eDEX-UI](screenshots/terminal.png)
+
+### Logo
+
+![eDEX-UI Logo](screenshots/logo.png)
 
 ![Terminal eDEX-UI](screenshot.png)
 
